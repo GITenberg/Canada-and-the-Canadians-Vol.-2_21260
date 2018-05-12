@@ -1,0 +1,32 @@
+_repo: Canada-and-the-Canadians-Vol.-2_21260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonnycastle, Richard Henry, Sir
+    aliases:
+    - Bonnycastle, Sir Richard Henry
+    - Bonnycastle, R. H. (Richard Henry), Sir
+    birthdate: 1791
+    deathdate: 1847
+    gutenberg_agent_id: '9029'
+    url: http://www.gutenberg.org/2009/agents/9029
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Bonnycastle
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ontario -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'Canada -- Description and travel'
+title: Canada and the Canadians, Vol. 2
+url: http://www.gutenberg.org/ebooks/21260
